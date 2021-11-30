@@ -1,1 +1,1 @@
-# medical-shop
+# pharmacy store management
